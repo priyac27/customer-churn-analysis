@@ -67,18 +67,22 @@ A few key queries power the risk analysis and KPI calculations:
 
 ## 📁 Project Structure
 ```
-telco-customer-churn-analysis/
+customer-churn-analysis/
 │
 ├── README.md
 │
 ├── data/
+│   ├── Cleaned data.xlxs
 │   └── telco_customer_churn_cleaned.csv
 │
 ├── sql/
 │   └── telco_customer_churn.sql
 │
 ├── python/
-│   └── churn_analysis.ipynb
+│   └── telco_customer_churn_analysis.ipynb
+│
+├── powerbi/
+│    └── telco_customer_churn.pbix
 │
 └── screenshots/
         ├── Customer_churn_overview.png
@@ -90,7 +94,7 @@ telco-customer-churn-analysis/
 1. Download or clone this repository.
 2. Open `sql/telco_customer_churn.sql` to review the SQL data preparation and analysis queries.
 3. Open `python/churn_analysis.ipynb` to review the Python-based exploratory analysis.
-4. Open the Power BI dashboard file (if included) in Power BI Desktop to explore the report interactively.
+4. Open the Power BI dashboard file in Power BI Desktop to explore the report interactively.
 5. Refer to the screenshots in `screenshots/` for a quick preview of the analysis.
 
 ## 👤 Author
