@@ -63,7 +63,7 @@ A few key queries power the risk analysis and KPI calculations:
 ## 📸 Preview
 | Overview | Detailed Analysis | Retention Priorities |
 |---|---|---|
-| ![Overview](screenshots/customer_churn_overview.png) | ![Detailed Analysis](screenshots/detailed_churn_ analysis.png) | ![Retention Priorities](screenshots/retention_priorities.png) |
+| ![Overview](screenshots/customer_churn_overview.png) | ![Detailed Analysis](screenshots/detailed_churn_analysis.png) | ![Retention Priorities](screenshots/retention_priorities.png) |
 
 ## 📁 Project Structure
 ```
